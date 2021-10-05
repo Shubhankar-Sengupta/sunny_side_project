@@ -58,7 +58,7 @@ ol, ul {
     display: inline;
 }
 
-.top-level-nav > li > a {
+#navbarSupportedContent > li > a {
     color: #fff;
 } 
 
