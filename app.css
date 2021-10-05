@@ -30,6 +30,10 @@ ol, ul {
     padding-left: 0px;
 }
 
+.attribution {
+    grid-column: 2/3;
+}
+
 .heading {
     background-image: url('./images/desktop/image-header.jpg');
     background-repeat: no-repeat;
